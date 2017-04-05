@@ -1,4 +1,4 @@
-Array Flattener
+## Array Flattener
 
 Takes a jagged array and flattens it into a 1-dimensional array. Built with ReactJS and MaterialUI
 
@@ -7,6 +7,7 @@ Setup:
 1) Log into root - 'npm install'
 2) 'npm start'
 3) http://localhost:3000/
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
