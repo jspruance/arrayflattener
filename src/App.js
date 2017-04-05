@@ -15,7 +15,7 @@ import './App.css';
 var outputFlatArray = "[]";
 
 // array flattening algorithm
-var flatten = function(inputArray, flattenedArray) {
+var flatten = function(inputArray) {
   for (var i = 0, len = inputArray.length; i < len; i++) {
     if (Array.isArray(inputArray[i])) {
       flatten(inputArray[i]);
